@@ -44,7 +44,7 @@ const Banner = () => {
       <span className="bg-[#A94DC6] rounded-full px-6 py-2 mt-4 mb-4 self-center text-white">
         Get Started Today
       </span>
-      <div className="flex flex-col md:flex-row we">
+      <div className="flex flex-col md:flex-row md:-mb-11">
         <div className="text-center bg-white p-4 border-r rounded-lg md:rounded-l-lg md:border-r-0">
           <p className="text-[#9E50B5]">Webiste Plans</p>
           <span className="text-[#B68EC2]">
